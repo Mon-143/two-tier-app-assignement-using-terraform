@@ -1,0 +1,3 @@
+software: "apache2"
+service_name: "apache2"
+content: "this is webserver of ubuntu OS"
